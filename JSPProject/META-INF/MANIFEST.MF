@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JSPProject
+Bundle-SymbolicName: JSPProject
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: JSPProject
+Export-Package: com.h2.web,
+ com.h2.web.filter
